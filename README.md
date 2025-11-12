@@ -1,5 +1,7 @@
 README — Gestión de Países (TPI)
 
+LINK DEL VIDEO: https://www.youtube.com/watch?v=1N7wYljovCQ
+
 Archivo: TPI_Programacion1.py
 CSV por defecto: paises.csv
 Autor / Integrantes: Facundo Nicolás Martino, Julián Campanini
